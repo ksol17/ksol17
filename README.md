@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ksol17
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning about algorithms at Coding Temple
+- 🌱 I’m currently learning about Python at Coding Temple
 - 💞️ I’m looking to collaborate on developer apps after graduation
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I speak multiple languages
